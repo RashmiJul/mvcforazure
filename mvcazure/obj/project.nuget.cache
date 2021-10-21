@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcPgF+cIkiI6vjudtW6e5RAft7ZEivUbyoIOCK5LtQ6ocN6H53kDO/gW3QEgBoK8AV8atIjGpARbYwIObRie1w==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Projects\\Tech_Learning\\Azure\\mvcforazure\\mvcazure\\mvcazure\\mvcazure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rashmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
